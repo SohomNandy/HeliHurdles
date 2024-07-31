@@ -35,6 +35,10 @@ The game is built using several key functions:
 - `move_player()`: Handles player movement
 - `move_rects()`: Scrolls the terrain
 - `check_collisions()`: Detects collisions between the player and terrain
+  
+## Tutorial Reference<br>
+This project was created following the tutorial by LEMaster Tech. You can find the original tutorial here:
+[LeMaster Tech's Helicopter Game Tutorial](https://youtu.be/W-3okcjOFnY?si=MP-eqPUAQMsHIks0)
 
 ## Future Improvements<br>
 - Add sound effects and background music
